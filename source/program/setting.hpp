@@ -2,7 +2,8 @@
 
 #include "common.hpp"
 
-#define EXL_MODULE_NAME "exlaunch"
+// Piston: passed from command line
+/* #define EXL_MODULE_NAME "exlaunch" */
 
 #define EXL_DEBUG
 #define EXL_USE_FAKEHEAP
