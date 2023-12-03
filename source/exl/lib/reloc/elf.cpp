@@ -1,7 +1,6 @@
-#include "elf.hpp"
-
 #include <exl/common.hpp>
 
+#include "elf.hpp"
 #include "rtld.hpp"
 
 extern "C" {

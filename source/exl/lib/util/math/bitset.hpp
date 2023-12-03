@@ -1,7 +1,8 @@
 #pragma once
 
-#include <exl/common.hpp>
 #include <concepts>
+
+#include <exl/common.hpp>
 
 namespace exl::util {
     

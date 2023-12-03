@@ -1,5 +1,6 @@
-#include <exl/common.hpp>
 #include <string>
+
+#include <exl/common.hpp>
 
 #ifndef EXL_MODULE_NAME
 #error "EXL_MODULE_NAME not defined!"

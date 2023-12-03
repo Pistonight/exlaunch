@@ -1,10 +1,10 @@
-#include "ModuleObject.hpp"
-
 #include <string.h>
+
 #include <exl/lib/diag/assert.hpp>
 
 #include "../rtld.hpp"
 #include "utils.hpp"
+#include "ModuleObject.hpp"
 
 namespace rtld {
 

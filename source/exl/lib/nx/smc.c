@@ -5,6 +5,7 @@
 
 #include <stddef.h>
 #include <string.h>
+
 #include "smc.h"
 
 void smcRebootToRcm(void)

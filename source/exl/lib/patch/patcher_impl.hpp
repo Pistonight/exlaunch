@@ -1,9 +1,10 @@
 #pragma once
 
+#include <optional>
+
 #include <exl/lib/util/sys/rw_pages.hpp>
 #include <exl/lib/util/sys/mem_layout.hpp>
 #include <exl/lib/util/typed_storage.hpp>
-#include <optional>
 
 namespace exl::patch {
 

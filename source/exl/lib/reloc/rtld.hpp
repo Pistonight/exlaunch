@@ -3,7 +3,6 @@
 #include <exl/common.hpp>
 
 #include "elf.hpp"
-
 #include "rtld/ModuleHeader.hpp"
 #include "rtld/ModuleList.hpp"
 #include "rtld/ModuleObject.hpp"

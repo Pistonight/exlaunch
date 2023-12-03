@@ -1,6 +1,6 @@
-#include "random.hpp"
-
 #include <random>
+
+#include "random.hpp"
 
 namespace exl::util {
 

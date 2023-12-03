@@ -16,8 +16,9 @@
 
 #pragma once
 
-#include "abort.hpp"
 #include <exl/usersetting.hpp>
+
+#include "abort.hpp"
 
 #ifdef EXL_DEBUG
 
