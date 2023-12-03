@@ -1,8 +1,10 @@
 # exlaunch
 A framework for injecting C/C++ code into Nintendo Switch applications/applet/sysmodules.
 
+This is a fork of the original exlaunch by shadowninja108. This fork is intended to be used as a library for my projects.
+
 # Note
-This project is a work in progress. If you have issues, reach out to Shadów#1337 on Discord.
+You should look at the original exlaunch repository for more information. Do not use this fork unless you know what you are doing.
 
 # Credit
 - Atmosphère: A great reference and guide.
