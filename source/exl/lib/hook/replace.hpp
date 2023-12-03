@@ -1,7 +1,7 @@
 #pragma once
 
 #include "base.hpp"
-#include <exl/util/func_ptrs.hpp>
+#include <exl/lib/util/func_ptrs.hpp>
 
 #define HOOK_DEFINE_REPLACE(name)                        \
 struct name : public ::exl::hook::impl::ReplaceHook<name>

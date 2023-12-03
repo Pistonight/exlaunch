@@ -30,7 +30,7 @@
 #include <cstring>
 #include <stdlib.h>
 
-#include <exl/util/sys/jit.hpp>
+#include <exl/lib/util/sys/jit.hpp>
 #include "inline_impl.hpp"
 
 

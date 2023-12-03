@@ -1,5 +1,8 @@
 #include <exl/common.hpp>
 #include <exl/usersetting.hpp>
+#include <exl/lib/util/sys/soc.hpp>
+#include <exl/lib/util/sys/mem_layout.hpp>
+#include <exl/lib/patch/patcher_impl.hpp>
 
 extern "C" {
     /* These magic symbols are provided by the linker.  */
@@ -63,10 +66,6 @@ extern "C" {
     void exl_module_fini(void) {}
 
 }
-
-#include <lib/util/sys/soc.hpp>
-#include <lib/util/sys/mem_layout.hpp>
-#include <lib/patch/patcher_impl.hpp>
 
 extern "C" void exl_init() {
     /* Getting the SOC type in an application context is more effort than it's worth. */
