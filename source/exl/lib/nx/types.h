@@ -5,10 +5,10 @@
  */
 #pragma once
 
-#include <exl/types.h>
-
 #include <stddef.h>
 #include <stdalign.h>
+
+#include <exl/types.h>
 
 #include "result.h"
 

@@ -1,10 +1,11 @@
+#include <stdlib.h>
+
 #include "../types.h"
 #include "../result.h"
 // #include "mutex.h"
 #include "svc.h"
 #include "virtmem.h"
 
-#include <stdlib.h>
 #include "../abort.h"
 
 #define SEQUENTIAL_GUARD_REGION_SIZE 0x1000

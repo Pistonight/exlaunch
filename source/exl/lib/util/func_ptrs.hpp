@@ -1,11 +1,13 @@
 #pragma once
 
-#include "ptr_path.hpp"
-#include <exl/common.hpp>
 #include <cstddef>
 #include <cstdint>
 #include <utility>
 #include <bit>
+
+#include <exl/common.hpp>
+
+#include "ptr_path.hpp"
 
 namespace exl::util {
 

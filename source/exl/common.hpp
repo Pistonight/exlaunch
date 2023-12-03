@@ -1,7 +1,6 @@
 #pragma once
 
 #include "types.h"
-
 #include "lib/alloc.hpp"
 #include "lib/nx/nx.h"
 #include "lib/result.hpp"

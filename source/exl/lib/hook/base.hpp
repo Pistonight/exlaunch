@@ -1,10 +1,10 @@
 #pragma once
 
-#include <exl/lib/util/func_ptrs.hpp>
-#include <exl/lib/util/modules.hpp>
-
 #include <type_traits>
 #include <cstring>
+
+#include <exl/lib/util/func_ptrs.hpp>
+#include <exl/lib/util/modules.hpp>
 
 #include "nx64/impl.hpp"
 

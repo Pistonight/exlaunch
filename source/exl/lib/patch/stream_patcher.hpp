@@ -1,7 +1,8 @@
 #pragma once
 
-#include "patcher_impl.hpp"
 #include <exl/lib/armv8.hpp>
+
+#include "patcher_impl.hpp"
 
 namespace exl::patch {
     

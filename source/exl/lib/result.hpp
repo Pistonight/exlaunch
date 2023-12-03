@@ -1,6 +1,7 @@
 #pragma once
 
 #include <exl/types.h>
+
 #include "diag/assert.hpp"
 
 #define R_ABORT_UNLESS(expr)    \
