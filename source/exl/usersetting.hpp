@@ -5,9 +5,6 @@
 #ifndef EXL_DEBUG
 #define EXL_DEBUG
 #endif
-#ifndef EXL_USE_FAKEHEAP
-#define EXL_USE_FAKEHEAP
-#endif
 
 #ifndef EXL_HEAP_SIZE
 #define EXL_HEAP_SIZE 0x5000
